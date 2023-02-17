@@ -11,7 +11,7 @@ export const Header = () => {
       {
         !isLogged && <Link to='/login'>
           <div className={ 'main-button' }>
-            Go to login
+            Go to logenidze
           </div>
         </Link>
       }
